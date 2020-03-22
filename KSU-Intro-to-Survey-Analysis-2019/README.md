@@ -17,4 +17,4 @@ Included in this repository:
 4. Feline Good Cat Boutique Survey.doc Example survey to accompany the survey_results.csv dataset
 4. survey_dashboard.Rmd An example shiny dashboard for summarizing tidy data. 
 
-For any questions regarding this tutorial, please contact Kat Morgan at kat.morgan@elicitinsights.com.
+For any questions regarding this tutorial, please contact Kat Morgan at katherinejmorgan@gmail.com.
